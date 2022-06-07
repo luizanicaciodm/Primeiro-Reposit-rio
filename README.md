@@ -1,2 +1,2 @@
-# Meu-primeiro-reposit-rio
-Desafio do Projeto sobre Git/GitHub
+# Meu-primeiro-repositó-rio
+Desafio de Projeto sobre Git/GitHub
