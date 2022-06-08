@@ -2,7 +2,7 @@
 Desafio de Projeto sobre Git/GitHub
 
 
-<p align="center">Irei colocar aqui sites importantes para desenvolvedores iniciantes</p>
+Irei colocar aqui, sites importantes para devs iniciantes:  💻
 
 
 >Cursos com certificação, com ênfase nas habilidades desejadas em empresas do Vale do Silício, como Google e Facebook! A **Udacity** trabalha com o sistema de assinatura mensal. Oferece todos os materiais necessários para realização do curso: arquivos para impressão, artigos e vídeos. [Link aqui](https://br.udacity.com/)
