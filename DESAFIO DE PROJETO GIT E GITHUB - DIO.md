@@ -25,4 +25,4 @@ Desafio de Projeto sobre Git/GitHub
 
 
 
->Conjunto de aulas gratuitas relacionadas à codificação para Web, design e experiência do usuário. O **Aquent Gymnasium** avalia o conhecimento atual do aluno por meio de testes – só continua o processo de formação quem obtém pontuação mínima. [Link aqui](
+>Conjunto de aulas gratuitas relacionadas à codificação para Web, design e experiência do usuário. O **Aquent Gymnasium** avalia o conhecimento atual do aluno por meio de testes – só continua o processo de formação quem obtém pontuação mínima. [Link aqui](https://gymnasium.aquent.com/)
